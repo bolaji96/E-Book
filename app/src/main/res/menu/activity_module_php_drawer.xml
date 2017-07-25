@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/PHP_Introduction"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Introduction" />
+        <item
+            android:id="@+id/PHP_EnvironmentalSetup"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Environmental Setup" />
+        <item
+            android:id="@+id/PHP_SyntaxOverview"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Syntax Overview" />
+        <item
+            android:id="@+id/PHP_VariableTypes"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Variable Types" />
+        <item
+            android:id="@+id/PHP_Constants"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Constants" />
+        <item
+            android:id="@+id/PHP_OperatorTypes"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Operator Types" />
+        <item
+            android:id="@+id/PHP_DecisionMaking"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Decision Making" />
+        <item
+            android:id="@+id/PHP_LoopTypes"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Loop Types" />
+        <item
+            android:id="@+id/PHP_Arrays"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Arrays" />
+        <item
+            android:id="@+id/PHP_Strings"
+            android:icon="@drawable/bulletpointicon"
+            android:title="PHP - Strings" />
+    </group>
+
+
+</menu>

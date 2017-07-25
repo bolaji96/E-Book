@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/CSS_Overview"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Overview" />
+        <item
+            android:id="@+id/CSS_Syntax"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Syntax" />
+        <item
+            android:id="@+id/CSS_Inclusion"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Inclusion" />
+        <item
+            android:id="@+id/CSS_MeasurementUnits"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Measurement Units" />
+        <item
+            android:id="@+id/CSS_Colors"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Colors" />
+        <item
+            android:id="@+id/CSS_Background"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Background" />
+        <item
+            android:id="@+id/CSS_Fonts"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Fonts"/>
+        <item
+            android:id="@+id/CSS_Text"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Text"/>
+        <item
+            android:id="@+id/CSS_Images"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Images"/>
+        <item
+            android:id="@+id/CSS_Lines"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Lines"/>
+        <item
+            android:id="@+id/CSS_Tables"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Tables"/>
+        <item
+            android:id="@+id/CSS_Borders"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Borders"/>
+        <item
+            android:id="@+id/CSS_Margins"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Margins"/>
+        <item
+            android:id="@+id/CSS_Lists"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Lists"/>
+        <item
+            android:id="@+id/CSS_Paddings"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Paddings"/>
+        <item
+            android:id="@+id/CSS_Cursors"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Cursors"/>
+        <item
+            android:id="@+id/CSS_Outines"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Outines"/>
+        <item
+            android:id="@+id/CSS_Dimensions"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Dimensions"/>
+        <item
+            android:id="@+id/CSS_Scrollbars"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Scrollbars"/>
+        <item
+            android:id="@+id/CSS_Visibility"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Visibility"/>
+
+
+    </group>
+</menu>

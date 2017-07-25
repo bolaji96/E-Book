@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/HTML_Overview"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Overview" />
+        <item
+            android:id="@+id/HTML_BasicTags"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Basic Tags" />
+        <item
+            android:id="@+id/HTML_Elements"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Elements" />
+        <item
+            android:id="@+id/HTML_Attributes"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Attributes" />
+        <item
+            android:id="@+id/HTML_Formatting"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Formatting" />
+        <item
+            android:id="@+id/HTML_PhraseTags"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Phrase Tags" />
+        <item
+            android:id="@+id/HTML_MetaTags"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Meta Tags" />
+        <item
+            android:id="@+id/HTML_Comments"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Comments" />
+        <item
+            android:id="@+id/HTML_Images"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Images" />
+        <item
+            android:id="@+id/HTML_Tables"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Tables" />
+        <item
+            android:id="@+id/HTML_Lists"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Lists" />
+        <item
+            android:id="@+id/HTML_TextLinks"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Text Links" />
+        <item
+            android:id="@+id/HTML_ImageLinks"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Image Links" />
+        <item
+            android:id="@+id/HTML_EmailLinks"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Email Links" />
+        <item
+            android:id="@+id/HTML_Frames"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Frames" />
+        <item
+            android:id="@+id/HTML_IFrames"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-IFrames" />
+        <item
+            android:id="@+id/HTML_Blocks"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Blocks" />
+        <item
+            android:id="@+id/HTML_Backgrounds"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Backgrounds" />
+        <item
+            android:id="@+id/HTML_Colors"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Colors" />
+        <item
+            android:id="@+id/HTML_Fonts"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Fonts" />
+        <item
+            android:id="@+id/HTML_Forms"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Forms" />
+        <item
+            android:id="@+id/HTML_EmbeddedMultiMedia"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Embedded MultiMedia" />
+        <item
+            android:id="@+id/HTML_Marquees"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Marquees" />
+        <item
+            android:id="@+id/HTML_Header"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Header" />
+        <item
+            android:id="@+id/HTML_StyleSheet"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Style Sheet" />
+        <item
+            android:id="@+id/HTML_JavaScript"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-JavaScript" />
+        <item
+            android:id="@+id/HTML_Layouts"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Layouts" />
+        <item
+            android:id="@+id/HTML_TagReference"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Tag Reference" />
+        <item
+            android:id="@+id/HTML_AttributeReference"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Attriute Reference" />
+        <item
+            android:id="@+id/HTML_EventsReference"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Events Reference" />
+        <item
+            android:id="@+id/HTML_FontsReference"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Fonts Reference" />
+        <item
+            android:id="@+id/HTML_ASCIILookup"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-ASCII Lookup" />
+        <item
+            android:id="@+id/HTML_ColorNames"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Color Names" />
+        <item
+            android:id="@+id/HTML_MimeMediaTypes"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Mime Media Types" />
+        <item
+            android:id="@+id/HTML_URL_Encoding"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-URL Encoding" />
+        <item
+            android:id="@+id/HTML_Language_ISO_Codes"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Language ISO Codes" />
+        <item
+            android:id="@+id/HTML_CharacterEncodings"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Character Encodings" />
+        <item
+            android:id="@+id/HTML_DeprecatedTags"
+            android:icon="@drawable/bulletpointicon"
+            android:title="HTML-Deprecated Tags" />
+    </group>
+</menu>

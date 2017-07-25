@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Javascript_Overview"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Overview" />
+        <item
+            android:id="@+id/Javascript_Syntax"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Syntax" />
+        <item
+            android:id="@+id/Javascript_Enabling"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Enabling" />
+        <item
+            android:id="@+id/Javascript_Placement"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Placement" />
+        <item
+            android:id="@+id/Javascript_Variable"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Variables" />
+        <item
+            android:id="@+id/Javascript_Operators"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Operators" />
+        <item
+            android:id="@+id/Javascript_IfElse"
+            android:icon="@drawable/bulletpointicon"
+            android:title="If-Else" />
+        <item
+            android:id="@+id/Javascript_SwitchCase"
+            android:icon="@drawable/bulletpointicon"
+            android:title="Switch Case" />
+        <item
+            android:id="@+id/Javascript_WhileLoop"
+            android:icon="@drawable/bulletpointicon"
+            android:title="While Loop" />
+        <item
+            android:id="@+id/Javascript_ForLoop"
+            android:icon="@drawable/bulletpointicon"
+            android:title="For Loop" />
+    </group>
+
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="joshua.e_book">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".computerscience_menu"
+            android:label="@string/title_activity_computerscience_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".register"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".signin"
+            android:label="@string/title_activity_signin"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Modules_CSS"
+            android:label="@string/title_activity_modules__css"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".module_html"
+            android:label="@string/title_activity_module_html"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".module_javascript"
+            android:label="@string/title_activity_module_javascript"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".module_php"
+            android:label="@string/title_activity_module_php"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>
